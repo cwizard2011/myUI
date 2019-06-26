@@ -802,3 +802,23 @@ body {
 .product-wish span {
   vertical-align: top; 
 }
+
+.font-open-sans {
+  font-family: 'Open Sans';
+  font-size: 14px
+}
+
+.font-montserrat {
+  font-family: 'Montserrat';
+  font-size: 14px
+}
+
+.font-lucida {
+  font-family: 'Lucida Grande';
+  font-size: 14px
+}
+
+.font-playfair {
+  font-family: 'PlayfairDisplay';
+  font-size: 18px
+}
